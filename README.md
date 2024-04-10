@@ -6,7 +6,7 @@ Mad by Nir Karl.
 This is a file that installs the Technion Creo Setting on end users (students) PC. Additionally it makes the necessary shortcuts to lunch Creo with those settings.
 
 # How to install (instruction for end user)
-1. Download the EXE file named “Creo settings installer”.
+1. Download the EXE file named “Creo settings setup”.
 2. Run the EXE file.
 3. Choose the path to install the settings in*
 4. Lunch Creo using the created desktop shortcut named “Technion-Creo”.
