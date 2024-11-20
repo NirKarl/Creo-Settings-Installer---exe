@@ -25,7 +25,7 @@ This is a file that installs the Technion Creo Setting on end users' (students')
 >[!WARNING]
 > Install and use at your discretion.
 
-# Spacial installation steps
+# Special installation steps
 After downloading and clicking the installation file, you might be presented with the following window:
 
 ![Windows installation from unknown source](https://github.com/user-attachments/assets/72d7efa1-ebe3-4404-a801-af20e0a0229f)
@@ -44,6 +44,9 @@ While installing, you will be asked to choose the installation folder. You can k
 > The chosen directory should not include Hebrew letters!
 
 Finally, after the installation has finished, you will have a new Creo shortcut on your desktop called "Technion Creo". To launch Creo with the new settings simply lunch it using this shortcut.
+
+>[!CAUTION]
+>Users should not save files inside the installed settings folders! Reinstalling the settings may delete those files.
 
 ![New Creo Icon](https://github.com/user-attachments/assets/9fed5091-effe-4069-aa2b-a0162d703a87)
 
