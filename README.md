@@ -45,10 +45,10 @@ While installing, you will be asked to choose the installation folder. You can k
 
 Finally, after the installation has finished, you will have a new Creo shortcut on your desktop called "Technion Creo". To launch Creo with the new settings simply lunch it using this shortcut.
 
+![New Creo Icon](https://github.com/user-attachments/assets/9fed5091-effe-4069-aa2b-a0162d703a87)
+
 >[!CAUTION]
 >Users should not save files inside the installed settings folders! Reinstalling the settings may delete those files.
-
-![New Creo Icon](https://github.com/user-attachments/assets/9fed5091-effe-4069-aa2b-a0162d703a87)
 
 # Contact Information
 For support please contact me (Nir Karl) at: nir@yosigal.com
