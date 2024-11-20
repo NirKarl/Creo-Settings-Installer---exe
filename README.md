@@ -5,16 +5,16 @@ The distributable file for Nir's Creo Settings Installer.
 Mad by Nir Karl.
 
 # About
-This is a file that installs the Technion Creo Setting on end users (students) PC. Additionally it makes the necessary shortcuts to lunch Creo with those settings.
+This is a file that installs the Technion Creo Setting on end users' (students') PCs and makes the necessary shortcuts to launch Creo with those settings.
 
-# How to install (instruction for end user)
+# How to install (instruction for end-user)
 1. Download the EXE file named “Creo settings setup”.
 2. Run the EXE file.
 3. Choose the path to install the settings in*
 4. Lunch Creo using the created desktop shortcut named “Technion-Creo”.
 
 >[!WARNING]
-> This software was designed to work on windows machines only.
+> This software was designed to work only on Windows machines.
 
 >[!CAUTION]
 > The chosen path should not include Hebrew letters!
@@ -23,22 +23,25 @@ This is a file that installs the Technion Creo Setting on end users (students) P
 > Users should not save files inside the installed settings folders! Reinstalling the settings may delete those files.
 
 >[!WARNING]
-> Install and use with your own cussion.
+> Install and use at your discretion.
 
 # Spacial installation steps
 After downloading and clicking the installation file, you might be presented with the following window:
 
-<img src="image-3.png" alt="Windows installation from unknown sorce" style="width:50%; height:auto;">
+<img src="![Windows installation from unknown source](https://github.com/user-attachments/assets/72d7efa1-ebe3-4404-a801-af20e0a0229f)" alt="Windows installation from unknown source" style="width:50%; height:auto;">
 
 To continue, click on "more info"
 
-<img src="image-1.png" alt="Windows installation form unknown sorce - more info" style="width:50%; height:auto;">
+<img src="![Windows installation form unknown sorce - more info](https://github.com/user-attachments/assets/5b2ea151-53da-4f94-b695-4251219e688f)" alt="Windows installation form unknown sorce - more info" style="width:50%; height:auto;">
 
 Then click on "run anyway"
 
-While installing you will be asked to chooce the installation folder, you can keep the default directory, or change it.  
+While installing, you will be asked to choose the installation folder. You can keep the default directory or change it.  
 
-<img src="image.png" alt="Choose settings installation path" style="width:50%; height:auto;">
+<img src="![Choose settings installation path](https://github.com/user-attachments/assets/e703d083-152c-44a2-b503-d7bd7d11a574)" alt="Choose settings installation path" style="width:50%; height:auto;">
+
+Finally, after the installation has finished, you will have a new Creo shortcut on your desktop called "Technion Creo". To launch Creo with the new settings simply lunch it using this shortcut.
+<img src="![New Creo Icon](https://github.com/user-attachments/assets/9fed5091-effe-4069-aa2b-a0162d703a87)" alt="New Creo Icon" style="width:10%; height:auto;">
 
 >[!CAUTION]
 > The chosen directory should not include Hebrew letters!
