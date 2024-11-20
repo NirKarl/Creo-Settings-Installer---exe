@@ -28,20 +28,20 @@ This is a file that installs the Technion Creo Setting on end users' (students')
 # Spacial installation steps
 After downloading and clicking the installation file, you might be presented with the following window:
 
-<img src="![Windows installation from unknown source](https://github.com/user-attachments/assets/72d7efa1-ebe3-4404-a801-af20e0a0229f)" alt="Windows installation from unknown source" style="width:50%; height:auto;">
+![Windows installation from unknown source](https://github.com/user-attachments/assets/72d7efa1-ebe3-4404-a801-af20e0a0229f)
 
 To continue, click on "more info"
 
-<img src="![Windows installation form unknown sorce - more info](https://github.com/user-attachments/assets/5b2ea151-53da-4f94-b695-4251219e688f)" alt="Windows installation form unknown sorce - more info" style="width:50%; height:auto;">
+![Windows installation form unknown sorce - more info](https://github.com/user-attachments/assets/5b2ea151-53da-4f94-b695-4251219e688f)
 
 Then click on "run anyway"
 
 While installing, you will be asked to choose the installation folder. You can keep the default directory or change it.  
 
-<img src="![Choose settings installation path](https://github.com/user-attachments/assets/e703d083-152c-44a2-b503-d7bd7d11a574)" alt="Choose settings installation path" style="width:50%; height:auto;">
+![Choose settings installation path](https://github.com/user-attachments/assets/e703d083-152c-44a2-b503-d7bd7d11a574)
 
 Finally, after the installation has finished, you will have a new Creo shortcut on your desktop called "Technion Creo". To launch Creo with the new settings simply lunch it using this shortcut.
-<img src="![New Creo Icon](https://github.com/user-attachments/assets/9fed5091-effe-4069-aa2b-a0162d703a87)" alt="New Creo Icon" style="width:10%; height:auto;">
+![New Creo Icon](https://github.com/user-attachments/assets/9fed5091-effe-4069-aa2b-a0162d703a87)
 
 >[!CAUTION]
 > The chosen directory should not include Hebrew letters!
