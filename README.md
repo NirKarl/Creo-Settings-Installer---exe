@@ -43,7 +43,7 @@ While installing, you will be asked to choose the installation folder. You can k
 >[!CAUTION]
 > The chosen directory should not include Hebrew letters!
 
-Finally, after the installation has finished, you will have a new Creo shortcut on your desktop called "Technion Creo". To launch Creo with the new settings simply lunch it using this shortcut.
+Finally, after the installation has finished, you will have a new Creo shortcut on your desktop called "Technion Creo". To launch Creo with the new settings simply run it using this shortcut.
 
 ![New Creo Icon](https://github.com/user-attachments/assets/9fed5091-effe-4069-aa2b-a0162d703a87)
 
