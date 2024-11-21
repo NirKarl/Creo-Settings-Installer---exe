@@ -11,7 +11,7 @@ This is a file that installs the Technion Creo Setting on end users' (students')
 1. Download the EXE file named “Creo settings setup”.
 2. Run the EXE file.
 3. Choose the path to install the settings in*
-4. Lunch Creo using the created desktop shortcut named “Technion-Creo”.
+4. Launch Creo using the created desktop shortcut named “Technion-Creo”.
 
 >[!WARNING]
 > This software was designed to work only on Windows machines.
@@ -23,7 +23,7 @@ This is a file that installs the Technion Creo Setting on end users' (students')
 > Users should not save files inside the installed settings folders! Reinstalling the settings may delete those files.
 
 >[!WARNING]
-> Install and use at your discretion.
+> Install and use at your own discretion.
 
 # Special installation steps
 After downloading and clicking the installation file, you might be presented with the following window:
